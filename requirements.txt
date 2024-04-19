@@ -1,0 +1,6 @@
+pymed>=0.8.9
+arxiv>=2.1.0
+semanticscholar>=0.8.0
+beartype>=0.14.1
+langchain_openai>=0.0.5
+tqdm>=4.66.1
